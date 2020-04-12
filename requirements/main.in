@@ -1,0 +1,8 @@
+Django
+Pillow
+psycopg2-binary
+django-webpack-loader
+
+#django_compressor
+#django-modeltranslation
+#easy-thumbnails
